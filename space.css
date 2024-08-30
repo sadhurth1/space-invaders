@@ -1,0 +1,13 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-image: url('gb1.avif');
+}
+
+h1 {
+    color: #E2BBE9;
+}
+
+#board {
+    background-color: black;
+}
